@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head><title>audio practice</title></head>
+    <body>
+        <h2>This is my favorite song!</h2>
+        <audio controls autoplay>
+        <source src="/Users/akshaj.panwar/Downloads/jungle-waves-drumampbass-electronic-inspiring-promo-345013.mp3" type="audio/mpeg">   
+        </audio>
+
+        <p>this is my favorite video</p>
+        <video width="400" height="300" controls autoplay>
+            <source src="demo./Users/akshaj.panwar/Downloads/275052_small.mp4" type="video/mp4">
+
+        </video>
+    </body>
+</html>
